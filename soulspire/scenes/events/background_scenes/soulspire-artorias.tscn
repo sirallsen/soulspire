@@ -1,0 +1,21 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://soulspire/images/Artorias_Ancient.jpg" id="1_bg"]
+
+[node name="TheChosenUndeadBackground" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+offset_left = -19.0
+offset_top = -10.0
+offset_right = 21.0
+offset_bottom = 30.0
+
+[node name="TextureRect" type="TextureRect" parent="."]
+layout_mode = 0
+offset_left = -300.0
+offset_top = -150.0
+offset_right = 2220.0
+offset_bottom = 1230.0
+texture = ExtResource("1_bg")
+expand_mode = 1
+stretch_mode = 5

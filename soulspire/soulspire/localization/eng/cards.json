@@ -1,0 +1,14 @@
+﻿{
+  "SOULSPIRE-ESTUS_FLASK.description": "Heal {Heal:diff()} HP. Draw {Cards:diff()} card.",
+  "SOULSPIRE-ESTUS_FLASK.title": "Estus Flask",
+  "SOULSPIRE-HOLLOW.description": "Add a copy of this curse into your [gold]Discard Pile[/gold]. It has [gold]Ethereal[/gold].",
+  "SOULSPIRE-HOLLOW.title": "Hollow",
+  "SOULSPIRE-JOLLY_COOPERATION.description": "Exhaust any number of cards in your hand. ALL players gain [gold]Energy[/gold] for each card [gold]Exhausted[/gold].",
+  "SOULSPIRE-JOLLY_COOPERATION.title": "Jolly Cooperation",
+  "SOULSPIRE-INVASION.description": "Add 1 [gold]Dark Spirit[/gold] curse to the hand of a random ally. Gain {Energy:energyIcons()} and draw {Cards:diff()} cards.",
+  "SOULSPIRE-INVASION.title": "Invasion",
+  "SOULSPIRE-DARK_SPIRIT.description": "If this is in your Hand at the end of your turn, gain {FrailPower:diff()} [gold]Frail[/gold] and {WeakPower:diff()} [gold]Weak[/gold] at the start of your next turn.",
+  "SOULSPIRE-DARK_SPIRIT.title": "Dark Spirit",
+  "SOULSPIRE-PENDANT.description": "A simple pendant with no effect. Can be traded at a Rest Site for 3 [gold]Relics[/gold].",
+  "SOULSPIRE-PENDANT.title": "Pendant"
+}
