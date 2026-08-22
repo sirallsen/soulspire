@@ -1,4 +1,5 @@
 using soulspire.soulspireCode.Cards;
+using BaseLib.Extensions;
 using BaseLib.Utils;
 using MegaCrit.Sts2.Core.Commands;
 using MegaCrit.Sts2.Core.Entities.Cards;
@@ -12,6 +13,8 @@ namespace soulspire.soulspireCode.Relics;
 [Pool(typeof(EventRelicPool))]
 public class SunlightMedal : soulspireRelic
 {
+    public SunlightMedal() => this.AddCustomAncientSpawnCondition(_ => !RunManager.Instance.IsSingleplayerOrFakeMultiplayer);
+
     public override RelicRarity Rarity => RelicRarity.Ancient;
 
     public override bool HasUponPickupEffect => true;
