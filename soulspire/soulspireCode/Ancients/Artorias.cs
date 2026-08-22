@@ -22,11 +22,4 @@ public class Artorias : CustomAncientModel
     public override string CustomMapIconOutlinePath => "res://images/packed/map/ancients/ancient_node_artorias_outline.png";
 
     public override bool IsValidForAct(ActModel act) => act.ActNumber() == 2;
-
-    public override bool ShouldForceSpawn(ActModel act, AncientEventModel ancientEvent)
-    {
-        if (act.ActNumber() != 2) return false;
-        MainFile.Logger.Info("[DEBUG] Forcing 'Artorias' to spawn as the Act 2 ancient - remove ShouldForceSpawn in Artorias.cs before release.");
-        return true;
-    }
 }
