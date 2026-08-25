@@ -12,7 +12,7 @@
   "SOULSPIRE-BUCKLER.description": "Whenever you block all damage in a turn, deal 10 damage to ALL enemies and apply 1 [gold]Vulnerable[/gold].",
   "SOULSPIRE-BUCKLER.flavor": "This shield is specialized for parrying.",
   "SOULSPIRE-GRASS_CREST_SHIELD.title": "Grass Crest Shield",
-  "SOULSPIRE-GRASS_CREST_SHIELD.description": "Start each combat with 3 [gold]Dexterity[/gold]. Lose 1 of them at the end of your turn.",
+  "SOULSPIRE-GRASS_CREST_SHIELD.description": "At the start of the first three turns in combat, you have an additional {Energy:energyIcons() and 3 Dexterity.",
   "SOULSPIRE-GRASS_CREST_SHIELD.flavor": "The grass crest is lightly imbued with magic, which slightly speeds stamina recovery.",
   "SOULSPIRE-SUNLIGHT_MEDAL.title": "Sunlight Medal",
   "SOULSPIRE-SUNLIGHT_MEDAL.description": "Upon pickup, add 1 [gold]Jolly Cooperation[/gold] to your [gold]Deck[/gold].",

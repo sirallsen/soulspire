@@ -1,0 +1,47 @@
+[i]Made by Alice and lipehique.[/i]
+
+Adds [b]Artorias[/b], a new Ancient event in Act 2, plus 12 Dark Souls relics and 6 hand-drawn cards, one enchantment and one rest site trade.
+
+[b]THIS MOD REQUIRES BASELIB!![/b]
+[b]THIS MOD REQUIRES BETA BRANCH!![/b]
+
+[h2]The Ancient:[/h2]
+[b]Artorias, the Abysswalker[/b] appears as a new Ancient event in Act 2.
+
+[h2]Relics:[/h2]
+[list]
+[*][h3]Rite of Kindling[/h3] Upon pickup, add 1 [b]Estus Flask[/b] to your [b]Deck[/b].
+[*][h3]Dark Soul[/h3] Upon pickup, add 1 [b]Hollow[/b] to your [b]Deck[/b]. When you draw a [b]Curse[/b], gain 1 [b]Strength[/b].
+[*][h3]Mask of the Father[/h3] Whenever you take unblocked damage from an enemy, gain half that much (rounded up) [b]Strength[/b] next turn.
+[*][h3]Red Sign Soapstone[/h3] [i](Multiplayer only)[/i] Upon pickup, add 1 [b]Invasion[/b] to your [b]Deck[/b].
+[*][h3]Purging Stone[/h3] Upon pickup, remove all [b]Curses[/b] from your [b]Deck[/b], including [b]Eternals[/b].
+[*][h3]Sunlight Medal[/h3] [i](Multiplayer only)[/i] Upon pickup, add 1 [b]Jolly Cooperation[/b] to your [b]Deck[/b].
+[*][h3]Chaos Flame Ember[/h3] Choose 3 [b]Attack[/b] cards. Enchant them with [b]Kindled[/b].
+[*][h3]The Pendant[/h3] Upon pickup, add a [b]Pendant[/b] into your [b]Deck[/b].
+[*][h3]Buckler[/h3] Whenever you block all damage in a turn, deal 10 damage to ALL enemies and apply 1 [b]Vulnerable[/b].
+[*][h3]Grass Crest Shield[/h3] At the start of the first three turns in combat, you have an additional [b]Energy[/b] and 3 [b]Dexterity[/b].
+[*][h3]Ring of Favor and Protection[/h3] Upon pickup, gain 5 Max HP. At the start of each combat, gain 1 [b]Strength[/b] and 1 [b]Dexterity[/b] and draw 1 additional card.
+[*][h3]Darkmoon Seance Ring[/h3] The first [b]Power[/b] you play each combat is played twice.
+[/list]
+
+[h2]Cards:[/h2]
+[list]
+[*][h3]Estus Flask[/h3] Heal 4 HP. Draw 1 card. Exhausts.
+[*][h3]Jolly Cooperation[/h3] [i](Multiplayer only)[/i] Exhaust any number of cards in your hand. ALL players gain [b]Energy[/b] for each card [b]Exhausted[/b]. Exhausts.
+[*][h3]Invasion[/h3] [i](Multiplayer only)[/i] Add 1 [b]Dark Spirit[/b] curse to the hand of a random ally. Gain 2 Energy and draw 2 cards. Exhausts.
+[*][h3]Dark Spirit[/h3] Ethereal. If this is in your Hand at the end of your turn, gain 1 [b]Frail[/b] and 1 [b]Weak[/b] at the start of your next turn. Exhausts.
+[*][h3]Hollow[/h3] Add a copy of this curse into your [b]Discard Pile[/b]. It has [b]Ethereal[/b].
+[*][h3]Pendant[/h3] A simple pendant with no effect. Can be traded at a Rest Site for 3 [b]Relics[/b].
+[/list]
+
+[h2]Enchantment:[/h2]
+[list]
+[*][h3]Kindled[/h3] Reduce this card's cost to 0. It now [b]Exhausts[/b].
+[/list]
+
+[h2]Rest Site:[/h2]
+[list]
+[*][h3]Trade[/h3] Trade your [b]Pendant[/b] for 3 random relics.
+[/list]
+
+Check the source code here: [url=https://github.com/sirallsen/soulspire]Github[/url]
